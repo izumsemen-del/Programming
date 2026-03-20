@@ -1,0 +1,9 @@
+C:\Users\insa\source\repos\Koder\Koder\bin\Debug\Koder.exe.config
+C:\Users\insa\source\repos\Koder\Koder\bin\Debug\Koder.exe
+C:\Users\insa\source\repos\Koder\Koder\bin\Debug\Koder.pdb
+C:\Users\insa\source\repos\Koder\Koder\obj\Debug\Koder.csprojAssemblyReference.cache
+C:\Users\insa\source\repos\Koder\Koder\obj\Debug\Koder.Form1.resources
+C:\Users\insa\source\repos\Koder\Koder\obj\Debug\Koder.Properties.Resources.resources
+C:\Users\insa\source\repos\Koder\Koder\obj\Debug\Koder.csproj.GenerateResource.cache
+C:\Users\insa\source\repos\Koder\Koder\obj\Debug\Koder.exe
+C:\Users\insa\source\repos\Koder\Koder\obj\Debug\Koder.pdb
